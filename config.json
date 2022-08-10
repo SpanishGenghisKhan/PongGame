@@ -1,0 +1,11 @@
+{
+"limitx":"350",
+"limity":"300",
+"speed_paddle":"10",
+"speed_ball":"0.1",
+"pos_pad_a":"-350",
+"pos_pad_b":"350",
+"wid":"800",
+"he":"600",
+"bgcol":"black"
+}
